@@ -1,0 +1,4 @@
+{
+    "editor.defaultFormatter": "remimarsal.prettier-now",
+    "editor.formatOnSave": true
+}
